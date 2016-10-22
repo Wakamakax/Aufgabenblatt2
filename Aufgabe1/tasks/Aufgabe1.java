@@ -69,6 +69,7 @@ public class Aufgabe1{
     public static void main(String[] args) {
         // TODO: Implementieren Sie hier die
 
+        //Das ist ein Test!
         char a = 'F';
         int b = 0xf;
         int c = 070;
